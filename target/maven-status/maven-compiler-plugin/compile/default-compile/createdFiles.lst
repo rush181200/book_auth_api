@@ -1,0 +1,7 @@
+com/rushabh/book_author/domain/Author$AuthorBuilder.class
+com/rushabh/book_author/BookAuthorApplication.class
+com/rushabh/book_author/domain/Book.class
+com/rushabh/book_author/repositories/AuthorRepository.class
+com/rushabh/book_author/repositories/BookRepository.class
+com/rushabh/book_author/domain/Book$BookBuilder.class
+com/rushabh/book_author/domain/Author.class
